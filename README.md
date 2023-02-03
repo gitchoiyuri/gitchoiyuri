@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Yuri
+### Hi there 👋 my name is Yuri.
 
 🌱 I wanna be a developer.  
 🔭 I’m currently learning BackEnd.
